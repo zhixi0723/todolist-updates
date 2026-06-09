@@ -1,11 +1,11 @@
 {
-  "version": "1.1.0",
-  "notes": "🎉 Todolist v1.1.0 更新内容\n\n✨ 新增\n- 设置页添加联系邮箱，欢迎反馈建议（zhixi0723@163.com）\n- 自动静默检查更新，有新版时设置标签红点提示\n- 检查更新时先展示更新说明，确认后再下载\n\n🔧 优化\n- 时钟字体换为 Caveat 手写字，中文标题换为 ZCOOL KuaiLe 艺术字\n- 启动画面焕新：App 图标 + 虚化放大过渡动画，页面打开瞬间显示\n- 设置页名言管理支持折叠，界面更简洁\n\n🐛 修复\n- 修复启动画面可能崩溃的问题\n- 修复启动画面动画切换不连贯的问题",
-  "pub_date": "2026-06-09T12:57:31.799Z",
+  "version": "1.2.1",
+  "notes": "🎉 Todolist v1.2.1 测试更新\n\n🧪 测试内容\n- 测试自动更新功能是否正常\n- 验证签名验证流程\n- 确认更新提示弹窗显示正确\n\n如果看到这条内容，说明更新功能正常！",
+  "pub_date": "2026-06-09T13:04:25.564Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdXJ2UzFYbmQzbWJsUFZDeFQzdjN5Wnp2NFd1ZXlOeXp0UVUyWVZCQTJScDJwSlFDYWw0bnhraHA1eExKMEk1c3R1WGZlSE5jbGkweWVmRDBDS0NDQndMYWhKeUlGaFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMDA5ODM1CWZpbGU6VG9kb2xpc3RfMS4xLjBfeDY0LXNldHVwLmV4ZQpxaWtTUDFhWTYwSUsyeEgyQ2s3VGszSkp2NEpKT2NXS3dYemVuWUhZUENyQ1VYWFFWcjE1VHp1NzBrUCtyUlVTRGJiV0tJN21CS1BEZk1EWmlYWm9Cdz09Cg==",
-      "url": "https://zhixi0723.github.io/todolist-updates/Todolist_1.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdXJ2UzFYbmQzbWR1anU5Qk4rVWRRbFN3OXJKUm93eFRnbEdkY0g4REo2RUFsUkhlSjRQaFNHNHZvOVJZOFhubW1HMjRWVzZGWTlEdG5vZ0F5Um1OaUM2dW5yeFRZMHdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMDEwMjQ5CWZpbGU6VG9kb2xpc3RfMS4yLjFfeDY0LXNldHVwLmV4ZQo1Mm9rVmRnQlNuY1VHMEkyNXZUcC9FSk11RG9VSDBXNHA5akU0NjdRY1RqSERpK3VXN1c2V0lRU2F6d2hpa0w5bE15SmNEcmN4MXZjajlPUXUvM3VBdz09Cg==",
+      "url": "https://zhixi0723.github.io/todolist-updates/Todolist_1.2.1_x64-setup.exe"
     }
   }
 }
