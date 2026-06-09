@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "notes": "首次发布",
+  "pub_date": "2026-06-09T00:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVReEJEcms1bXVaSnhIN0VqYkJGeHV1Q0dIZzJsVmxvS0xnUnFyZ0Fybzk0ei9LdTRDaFZ6OGdaWHlsRk44U1BDTXUzYWh5ekJWTHcwNFUxdkR3UHEvRHFTSnR5bmlob1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMDAxMDU5CWZpbGU6VG9kb2xpc3RfMS4wLjBfeDY0LXNldHVwLmV4ZQpMaTkzN3pDT2ZYWkc3cWJhRnd0MGxoSzlEMW1nNS9tTkNkR2sxcXpxTWJuRXZMZEFLVkxxLzVRNFk2a2xQeDA2eWl0L1FwMlY1K0k5MFNCY1g5cjZDUT09Cg==",
+      "url": "https://zhixi0723.github.io/todolist-updates/Todolist_1.0.0_x64-setup.exe"
+    }
+  }
+}
