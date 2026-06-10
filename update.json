@@ -1,11 +1,11 @@
 {
-  "version": "1.3.0",
-  "notes": "🎉 Todolist v1.3.0 更新内容\n\n🐛 修复\n- 修复多次打开软件导致系统托盘出现多个图标的问题\n- 修复日历中周日列在编辑面板中被裁剪的问题\n- 优化检查更新功能，网络不稳定时自动重试（最多 3 次）",
-  "pub_date": "2026-06-10T09:30:07.232Z",
+  "version": "1.3.1",
+  "notes": "🎉 Todolist v1.3.0 更新内容\n\n🐛 修复\n- 修复点击 X 按钮无法关闭应用，只能隐藏到托盘的问题\n- 修复日历右侧两个角显示为直角、不圆润的问题",
+  "pub_date": "2026-06-10T10:25:52.520Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdXJ2UzFYbmQzbVFpbmRUL0FXV1Q2VWVUK2FuemF0R0IrVE8vRVVpUjI4Wk8rMExJNk82L2ExNG5kRktqVCtkOEtRTU9Qd2JXRXc2dy9XMzZVbDNSWHRSNTJiakx1MUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMDgzNzk0CWZpbGU6VG9kb2xpc3RfMS4zLjBfeDY0LXNldHVwLmV4ZQo3T1d2K3RKb3p5dHpRZnNKZDB3RVpqbjNPc256bUJMTlY3TmpiYlU4TzdoQVZTeDRGeUJmenk4VUwyRTlRQWpoaW41NFFIVDZMRlhvNXJacGVjLzhBdz09Cg==",
-      "url": "https://zhixi0723.github.io/todolist-updates/Todolist_1.3.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdXJ2UzFYbmQzbVhGVkd5OGVIZm9PSys4Z1AzY1hicnp6TktMbW5ZL3Z2UnpKczR6cXllcTdjL3lxVEhTUHFWdVlDUW96b1N5OXBlQ3NyN3lPajhiSk1KVHRMUDZ6VEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMDg2ODAzCWZpbGU6VG9kb2xpc3RfMS4zLjFfeDY0LXNldHVwLmV4ZQplVVlVRUZSSDRVM0dmTmNwN1BJaVJLNXpkTlVJanlOSUUyd1BJWDk4TEZxWGhRZjc1THB2RmV1bWpWalFBcEFZaDdPV3hvYmc1VnUrWnNHb2pwSDNDZz09Cg==",
+      "url": "https://zhixi0723.github.io/todolist-updates/Todolist_1.3.1_x64-setup.exe"
     }
   }
 }
