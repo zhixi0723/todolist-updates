@@ -1,11 +1,11 @@
 {
-  "version": "1.3.3",
-  "notes": "🎉 Todolist v1.3.3 更新内容\n\n🐛 修复\n- X 按钮关闭窗口改为隐藏到托盘（配合单实例检测，双击不会多开图标）\n- 提醒时间限制：指定时刻提醒只能在当下与截止日期之间选择",
-  "pub_date": "2026-06-10T11:52:27.694Z",
+  "version": "1.3.4",
+  "notes": "🎉 Todolist v1.3.4 更新内容\n\n🐛 修复\n- 修复二次双击 exe 弹出窗口后 X 按钮失效的问题",
+  "pub_date": "2026-06-10T12:52:43.062Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdXJ2UzFYbmQzbWVQYzJob3UzVElLakVid2trTWV1Q2NJd3g4SXp0WGEvc0FVV3FZeE0vNjIvRlQ0RndYQnBMYTlyV2FYREZqaEZPZ0d1WmhnWWVtZ3QyN2hWSTNDdGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMDkyMjc3CWZpbGU6VG9kb2xpc3RfMS4zLjNfeDY0LXNldHVwLmV4ZQo0b0JQN2N0T1JGclNDOEhadDV0TE02WkNTZjJ1bG9lUXRGN0VuQ1RkbWpsUngvcTYzNkRObWxkbWt4RXoreWtHelJrMGRvV0grcGV1NzNQbHVXVm5DZz09Cg==",
-      "url": "https://zhixi0723.github.io/todolist-updates/Todolist_1.3.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdXJ2UzFYbmQzbVZGZXQvalVjYWh0Z3J2REd5aTkxTWhFaHZ5TjBMcHlZelUxalhlWXpETklkTTFsT3djUERxdHFBZ3BrRmVvaUNEcUVaQ3Znalp5cExLak1nZSszNUEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMDk1ODY4CWZpbGU6VG9kb2xpc3RfMS4zLjRfeDY0LXNldHVwLmV4ZQpLekFIcytXVDFoSEwrMUU4ajFTQVRHSkYwQWxmUFpLVWpEK0c1eDhSSFliVDVKY0VoeXRvcTRwQmVvYm94TU9KR2hnbzA4OHZwQS9nNXBtNmYvNUxBZz09Cg==",
+      "url": "https://zhixi0723.github.io/todolist-updates/Todolist_1.3.4_x64-setup.exe"
     }
   }
 }
