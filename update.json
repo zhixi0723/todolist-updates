@@ -1,11 +1,11 @@
 {
-  "version": "1.2.3",
-  "notes": "🎉 Todolist v1.2.3 更新内容\n\n✨ 新增\n- 开机自启动开关（设置页），开机自动启动到托盘，提醒不错过\n- 提示音音量调节滑块（设置页），0–100% 自由调节，松手试听\n- 设置页新增使用手册，分模块介绍所有功能\n- 检查更新按钮旁添加网络提示\n\n🐛 修复\n- 提醒通知增加悦耳双音提示音，不再静默错过\n- 系统托盘图标更新为 App 图标\n- 修复首页待办卡片 hover 时彩色边框显示不全的问题\n- 修复开机自启动开关按钮出界和卡顿\n- 修复新建/编辑弹窗在小窗口下被底部导航栏遮挡的问题",
-  "pub_date": "2026-06-09T15:38:07.722Z",
+  "version": "1.3.0",
+  "notes": "🎉 Todolist v1.3.0 更新内容\n\n🐛 修复\n- 修复多次打开软件导致系统托盘出现多个图标的问题\n- 修复日历中周日列在编辑面板中被裁剪的问题\n- 优化检查更新功能，网络不稳定时自动重试（最多 3 次）",
+  "pub_date": "2026-06-10T09:30:07.232Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdXJ2UzFYbmQzbVRpbzNZbmN1cGE3b0NyV1NWM0hyRHNNRTF0NUF1RWw5bzQ4ZGJPemV4MGgvVm1TSWRmN3I0V2xVWFNxMnFhN1k5RXpHSG52NXlwN2xON2hYYjh4d1E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMDE5MjYwCWZpbGU6VG9kb2xpc3RfMS4yLjNfeDY0LXNldHVwLmV4ZQpvb2hpdk1NZUpVT3ArdnFET1dReUtFaEJWNU1VaUVwcU9welh0U2x0bFBkRnM1YTY3bGZsUWlFZDQycSs5RUtIUXZzd0dlTFhjU2JxUkNXbEs4VWJCZz09Cg==",
-      "url": "https://zhixi0723.github.io/todolist-updates/Todolist_1.2.3_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdXJ2UzFYbmQzbVFpbmRUL0FXV1Q2VWVUK2FuemF0R0IrVE8vRVVpUjI4Wk8rMExJNk82L2ExNG5kRktqVCtkOEtRTU9Qd2JXRXc2dy9XMzZVbDNSWHRSNTJiakx1MUF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMDgzNzk0CWZpbGU6VG9kb2xpc3RfMS4zLjBfeDY0LXNldHVwLmV4ZQo3T1d2K3RKb3p5dHpRZnNKZDB3RVpqbjNPc256bUJMTlY3TmpiYlU4TzdoQVZTeDRGeUJmenk4VUwyRTlRQWpoaW41NFFIVDZMRlhvNXJacGVjLzhBdz09Cg==",
+      "url": "https://zhixi0723.github.io/todolist-updates/Todolist_1.3.0_x64-setup.exe"
     }
   }
 }
