@@ -1,11 +1,11 @@
 {
-  "version": "1.3.4",
-  "notes": "🎉 Todolist v1.3.4 更新内容\n\n🐛 修复\n- 修复二次双击 exe 弹出窗口后 X 按钮失效的问题",
-  "pub_date": "2026-06-10T12:52:43.062Z",
+  "version": "2.1.0",
+  "notes": "🎉 Todolist v2.1.0 — 视觉焕新\n\n✨ 全新视觉设计\n- 界面全面重设计，Awwwards 级质感打磨\n- 全新 SVG 图标系统（30+ 个），告别单调 Emoji\n- 卡片双层嵌套结构，物理深度感十足\n- 按钮药丸形设计，按压有弹性反馈\n- 开关切换带弹簧物理效果\n- 列表交错入场，动效细腻流畅\n- 空状态图标轻微浮动，不再呆板\n- 粉蓝主题全面强化，优雅而不失活力\n\n🏷️ 标签系统（v2.0）\n- 支持自定义标签，8 种颜色可选\n- 待办可与多个标签关联，筛选更灵活\n\n🎨 主题系统（v2.0）\n- 深色/浅色模式一键切换\n- 6 种主题色可选（粉/紫/绿/橙/蓝/红）\n\n🐛 修复\n- 修复启动后短暂白屏问题\n- 修复编辑弹窗滚动条溢出圆角\n- 自启动开关不再异常跳动\n- 二次打开窗口 X 按钮失效问题\n\n🔧 细节优化\n- 开机自启动图标更直观（电源符号）\n- 下拉菜单弹出更自然\n- 更新检查失败不再频繁弹窗提示",
+  "pub_date": "2026-06-11T15:29:56.320Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdXJ2UzFYbmQzbVZGZXQvalVjYWh0Z3J2REd5aTkxTWhFaHZ5TjBMcHlZelUxalhlWXpETklkTTFsT3djUERxdHFBZ3BrRmVvaUNEcUVaQ3Znalp5cExLak1nZSszNUEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMDk1ODY4CWZpbGU6VG9kb2xpc3RfMS4zLjRfeDY0LXNldHVwLmV4ZQpLekFIcytXVDFoSEwrMUU4ajFTQVRHSkYwQWxmUFpLVWpEK0c1eDhSSFliVDVKY0VoeXRvcTRwQmVvYm94TU9KR2hnbzA4OHZwQS9nNXBtNmYvNUxBZz09Cg==",
-      "url": "https://zhixi0723.github.io/todolist-updates/Todolist_1.3.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSdXJ2UzFYbmQzbWIrMkF2dFQ4YTVGODhrVGljMzVpZVk3RTVyZGNDQXcwVnJFSWtEVGpCd0FqNDdaUCtENTUweVRhaU5MdWNCUnRISWh3eHpXUVlmN2k2VkZjc3lZblFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxMTkxNzI3CWZpbGU6VG9kb2xpc3RfMi4xLjBfeDY0LXNldHVwLmV4ZQp3WEJwSDdWQ2tKc1QrZjRVR1ltSUxuRXBMcnp4OW1vV2pDKzFLTXE2bGZBYlV6MmplZHl6T2ptNHhDaDkrWENXVThBbmdMTmFBbVo1UEIxcGh6VHBBQT09Cg==",
+      "url": "https://zhixi0723.github.io/todolist-updates/Todolist_2.1.0_x64-setup.exe"
     }
   }
 }
